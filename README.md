@@ -1,7 +1,7 @@
 # Transaction Risk Analysis Using SQL
 
 ## Project Overview
-This Project demonstrates the use of SQL for transaction-level risk analysis by identifying unusually or high-risk transaction patterns in a transaction dataset.
+This project demonstrates the use of SQL for transaction-level risk analysis by identifying potentially unusual or high-risk transaction patterns in a transaction dataset.
 The analysis focuses on risk indicators relevant to transaction monitoring, fraud risk assessments and financial crime investigations.
 
 ## Risk Indicators
@@ -12,7 +12,7 @@ The analysis focuses on risk indicators relevant to transaction monitoring, frau
 - Behavioral Deviation
 
 ## Tools Used
-- DB browser for SQLite
+- DB Browser for SQLite
 - Excel
 - Microsoft Word
 
