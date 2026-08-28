@@ -24,3 +24,7 @@ The analysis focuses on risk indicators relevant to transaction monitoring, frau
 - Risk-based interpretation
 
 ## Project Files
+- [SQL Queries](./SQL/risk-analysis-queries.sql)
+- [Dataset](./dataset/creditcard01.csv)
+- [Risk Indicator Analysis](./risk_indicator_analysis/Risk_indicators.pdf)
+- [Final Report](./risk_indicator_analysis/Report.pdf)
